@@ -20,7 +20,8 @@ double promd(const std::vector<double> & a)
 
 double dstand(std::vector<double> & b,const std::vector<double> & a)
 {
+  double xm=5.5;
   for(int i=0;i<N;i++){
-    double dev += (x[i]*)
+    b[i]=(x[i]-xm)*(x[i]-xm)
   }
 }
